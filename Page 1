@@ -8,6 +8,76 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-	<script src="index.js"></script>
-  </body>
+
+    /* PART 1*/
+	<div class = 'topcontainer'>
+    <div class = 'header'>
+      <div class = 'main_header'>Header Logo</div>
+      <div class = 'sub_header'>Header Link 1</div>
+      <div class = 'sub_header'>Header Link 2</div>
+      <div class = 'sub_header'>Header Link 3</div>
+    </div>
+    <div class = 'topcontent'>
+      <div class = 'leftcontent'>
+        <div class = 'left1'>This website is awesome</div>
+        <div class = 'left2'>This website has some subtext that goes here under
+                             the main title. It's a smaller font and the color
+                              is lower contrast</div>
+        <div class = 'left'>Sign up</div>
+      </div>
+      <img src: >
+    </div>
+  </div>
+    /* PART 2 */
+  <div class = 'topmiddlecontainer'>
+    <div class = 'middleheader'>Some information</div>
+    <div class = 'imagebox'>
+      <div class = 'indvimg'>
+        <img src :>
+        <div class = 'smalltext'></div>
+      </div>
+      <div class = 'indvimg'>
+        <img src :>
+        <div class = 'smalltext'></div>
+      </div>
+      <div class = 'indvimg'>
+        <img src :>
+        <div class = 'smalltext'></div>
+      </div>
+      <div class = 'indvimg'>
+        <img src :>
+        <div class = 'smalltext'></div>
+      </div>
+    </div>
+  </div>
+
+  /* PART 3 */
+ 
+  <div class = 'botmiddlecontainer'>
+    <div class = 'slogan'>This is an inspiring quote, or a testimonial from a c
+                          ustomer. Maybe it's just filling up space, or maybe 
+                          people will actually read it. Who knows? All i know 
+                          is that it looks nice.</div>
+    <div class = 'author'>Thor, God of Thunder</div>
+  </div>
+
+
+  /* PART 4 */
+
+  <div class = 'bottomcontainer'>
+    <div class = 'botcontent'>
+      <div class = 'botleft'>
+        <div class = 'boldmessage'>Call to action! It's time!</div>
+        <div class = 'message'>Sign up for our product by clicking that button 
+                              right over there</div>
+      </div>
+      <div class = 'botright'>Sign up</div>
+    </div>
+  </div>
+
+  /* FOOTER */
+  <div class = 'footer'>
+    <div class = 'copyright'>Copyright Encheng 2022</div>
+  </div>
+</body>
 </html>
