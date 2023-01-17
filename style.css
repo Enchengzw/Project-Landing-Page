@@ -54,3 +54,48 @@
     text-align: center;
     padding: 5px;
 }
+
+.topmiddlecontainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 400px;
+    width: auto;
+    padding-top: 50px;
+}
+
+.middleheader {
+    color: #1f2937;
+    font: bolder;
+    font-size: 36px;
+    text-align: center;
+}
+
+.botmiddlecontainer {
+    background-color: #e5e7eb;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.slogan {
+    font: italic;
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+    width: 1000px;
+}
+
+.author {
+    font-size: 24px;
+    font: bolder;
+    color:#1f2937;
+    margin-left: auto;
+    margin-right: 200px;
+}
