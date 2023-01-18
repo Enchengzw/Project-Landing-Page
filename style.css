@@ -89,6 +89,7 @@
     font: bolder;
     font-size: 36px;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 .botmiddlecontainer {
@@ -101,6 +102,37 @@
     width: auto;
     align-items: center;
     justify-content: center;
+}
+
+.imagebox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.indvimg {
+    display: flex;
+    flex-direction: column;
+}
+
+.borderbox {
+    height: 125px;
+    width: 125px;
+    border-radius: 10px;
+    border: 2px solid #3882f6;
+    margin-left: -15px;
+}
+
+.smalltext {
+    font-size: 18px;
+    color: #e5e7eb;
+    width: 125px;
+    height: auto;
+}
+
+.butterfly {
+    height: 125px;
+    width: 125px;
 }
 
 .slogan {
